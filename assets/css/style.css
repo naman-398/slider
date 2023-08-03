@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.bg-color {
+    background-color: #FFF7F4;
+}
+
+.min-vh-100 {
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.smallheading {
+    color: var(--orange, #FF5300);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 140px;
+    padding-top: 120px;
+}
+
+.mxauto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainheading {
+    color: #373737;
+    font-family: Poppins;
+    font-size: 39.063px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58.59px;
+    width: 462px;
+    padding-top: 15px;
+}
+
+.col4 {
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-left: -12px;
+    padding-right: -12px;
+}
+
+.card {width: 350px;  
+    padding: 20px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.10);
+}
+
+.pt60 {
+    padding-top: 60px;
+}
+.align-item{
+    align-items: center;
+}
+
+.para {
+    color: #7B7B7B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 320px;
+    padding-top: 10px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.pt25 {
+    padding-top: 25px;
+}
+
+.name {
+    color: #FF5300;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.pl15 {
+    padding-left: 15px;
+}
+
+.pt5 {
+    padding-top: 5px;
+}
+
+.name2 {
+    color: #7B7B7B;
+    font-family: Poppins;
+    font-size: 12.8px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 19.2px;
+}
+
+.pl50 {
+    padding-left: 50px;
+}
+
+.pl18 {
+    padding-left: 18px;
+}
+
+.pl30 {
+    padding-left: 30px;
+}
